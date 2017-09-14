@@ -3,8 +3,8 @@
 As a bunny in the Wild Forests, the player must hop leaf to leaf to get the tastiest fruits! However, they must BEWARE THE ROTTEN FRUIT!
 
 ## II. Genre
-..* Action
-..* Platformer
+* Action
+* Platformer
 
 ## III. Platform
 Desktop only web-game
@@ -40,11 +40,11 @@ Upbeat looped
 ????
 
 ### Control:
-Movement: arrow keys (or mouse??)
+Movement: arrow keys 
 
 ### Onboarding
-..* Instructions on how to move appear on screen
-..* Instructions on what is a good fruit and what is a rotten fruit appear below
+* Instructions on how to move appear on screen
+* Instructions on what is a good fruit and what is a rotten fruit appear below
 
 ### Player learning
 The player must learn the distance Bunny is able to jump to determine if they can reach the next platform. They must also get used to
