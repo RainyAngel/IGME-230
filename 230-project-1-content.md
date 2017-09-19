@@ -37,7 +37,8 @@ Upbeat looped
 
 ## VI. Gameplay
 ### Mechanics:
-????
+The player directs the character (a bunny) platform to platform (leaves) while collecting fresh fruits. Each fruit collected is worth 100 points.
+However, the game ends if the bunny doesn't make it to the next platform and falls or if bunny is directed to a platform holding a bad fruit.
 
 ### Control:
 Movement: arrow keys 
