@@ -53,9 +53,9 @@ Bunny being able to go disappear on one side of the screen border to appear on t
 their reflexes as well.
 
 ## VII. Screenshots
-<insert image 1 here>
+<img src="https://github.com/RainyAngel/IGME-230/blob/master/BunnyJump.PNG" alt="Bunny Jump Screenshot (PNG needs to be shrunk to JPEG)">
 
-<insert image 2 here>
+<img src="https://github.com/RainyAngel/IGME-230/blob/master/BunnySick.PNG" alt="Bunny Sick Screenshot (PNG needs to be shrunk to JPEG)">
 
 ## VIII. About the Developer
 Charley Link, 2nd Year Game Design and Development Undergraduate at the Rochester Institute of Technology
