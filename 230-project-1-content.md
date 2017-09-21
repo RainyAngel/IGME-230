@@ -1,6 +1,6 @@
 # Bunny Bop!
 ## I. High Concept
-As a bunny in the Wild Forests, the player must hop leaf to leaf to get the tastiest fruits! However, they must BEWARE THE ROTTEN FRUIT!
+As a bunny in the Wild Forests, the player must guide Bunny as it hops leaf to leaf to get the tastiest fruit! However, they must BEWARE THE ROTTEN FRUIT! The rotten fruit will make Bunny sick and unable to continue collecting good fruit, ending the game. However, if the player can avoid the rotten fruit then Bunny will keep climbing higher and higher with the player's score increasing by 100 points with every good fruit collected.
 
 ## II. Genre
 * Action
