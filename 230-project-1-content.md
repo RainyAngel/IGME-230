@@ -15,7 +15,7 @@ So this means Bunny must set out to gather a good bushel of fruit to make a tast
 
 ## V. Esthetics
 ### Graphics Style:
-Bunny is going to be styled in a simplistic, chibi-like style while the leaf platforms, fruit, and background will kaintain a similar cartoon appearance.
+Bunny is going to be styled in a simplistic, chibi-like style while the leaf platforms, fruit, and background will maintain a similar cartoon appearance.
 
 ### Music:
 Upbeat looped
