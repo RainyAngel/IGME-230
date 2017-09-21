@@ -3,19 +3,19 @@
 As a bunny in the Wild Forests, the player must guide Bunny as it hops leaf to leaf to get the tastiest fruit! However, they must BEWARE THE ROTTEN FRUIT! The rotten fruit will make Bunny sick and unable to continue collecting good fruit, ending the game. However, if the player can avoid the rotten fruit then Bunny will keep climbing higher and higher with the player's score increasing by 100 points with every good fruit collected.
 
 ## II. Genre
-* Action
-* Platformer
+This game is an action platformer where the character hops platform to platform to collect fruit for points.
 
 ## III. Platform
-Desktop only web-game
+This game is currently in development as a desktop-inly web game, though later versions for iOS and Android are a possibility.
 
 ## IV. Story
-Bunny has gotten hungry and must set out to gather a good bushel of fruit to make a tasty fruit salad for lunch! However, the harsh Wild Forests are full
-of danger and bad fruits that will give Bunny a nasty tummy ache.
+Bunny has just moved out of the den and has settled into a cozy den of its own. However...
+Bunny has gotten hungry and finds it has no food. To make matters worse, Bunny is seriously craving some good fruit salad and the fruit store is closed at this time of day. 
+So this means Bunny must set out to gather a good bushel of fruit to make a tasty fruit salad to eat! However, eitout the proper processing and cleaning of the fruit store fruit, Bunny must watch out for gathering bad fruits that will give it a nasty tummy ache.
 
 ## V. Esthetics
 ### Graphics Style:
-Cartoon-chibi
+Bunny is going to be styled in a simplistic, chibi-like style while the leaf platforms, fruit, and background will kaintain a similar cartoon appearance.
 
 ### Music:
 Upbeat looped
